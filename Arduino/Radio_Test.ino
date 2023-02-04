@@ -1,4 +1,3 @@
-//www.diyusthad.com
 #include <LiquidCrystal.h>
 
 /*
